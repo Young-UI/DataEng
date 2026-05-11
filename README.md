@@ -18,4 +18,3 @@ I'm an aspiring Business Intelligence Analyst based in Adelaide, Australia. I bu
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/eric-yangzhao/
 - Email: young.zhao418@gmail.com
-Yang data engineer self learning project
