@@ -7,8 +7,8 @@ I'm an aspiring Business Intelligence Analyst based in Adelaide, Australia. I bu
 - **Languages:** Python, SQL
 - **Cloud:** Azure (Data Lake, Databricks)
 - **Data Tools:** PySpark, Snowflake
-- **Data Virtualization: Power BI
-- **Report: Power BI report builder
+- **Data Virtualization**: Power BI
+- **Report**: Power BI report builder
 - **Version Control:** Git, GitHub
 
 ## 📂 Featured Projects
