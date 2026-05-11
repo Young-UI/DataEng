@@ -13,7 +13,7 @@ I'm an aspiring Business Intelligence Analyst based in Adelaide, Australia. I bu
 
 ## 📂 Featured Projects
 - [Azure + Databricks + Snowflake ETL Pipeline](link-to-your-repo) - End-to-end data pipeline for mining IoT data
-- [Your Second Project] - Coming soon
+- [Second Project] - Coming soon
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/eric-yangzhao/
