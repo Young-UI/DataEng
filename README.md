@@ -12,7 +12,7 @@ I'm an aspiring Business Intelligence Analyst based in Adelaide, Australia. I bu
 - **Version Control:** Git, GitHub
 
 ## 📂 Featured Projects
-- [Azure + Databricks + Snowflake ETL Pipeline](link-to-your-repo) - End-to-end data pipeline for mining IoT data
+- [Azure + Databricks + Snowflake ETL Pipeline](https://github.com/Young-UI/azure-databricks-snowflake-etl.git) - End-to-end data pipeline for mining IoT data
 - [Second Project] - Coming soon
 
 ## 📫 Connect With Me
